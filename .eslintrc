@@ -1,0 +1,4 @@
+{
+  "extends": "sugarshin",
+  "globals": { "DocumentTouch": true }
+}
