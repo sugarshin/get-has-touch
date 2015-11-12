@@ -1,7 +1,7 @@
 {
   "name": "get-has-touch",
   "version": "1.0.0",
-  "description": "Dynamically get touch detection.",
+  "description": "Dynamically touch detection.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sugarshin/get-has-touch.git"

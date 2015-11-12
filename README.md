@@ -4,7 +4,7 @@
 [![GitHub version][github-ver-image]][github-ver-url]
 [![License][license-image]][license-url]
 
-Dynamically get touch detection.
+Dynamically touch detection.
 
 ```
 npm i get-has-touch
